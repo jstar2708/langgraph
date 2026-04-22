@@ -1,0 +1,29 @@
+# --- CORE FRAMEWORKS ---
+langchain
+langchain-community
+langchain-experimental
+langgraph
+langsmith              # Essential for debugging LangGraph traces
+
+# --- MODEL PROVIDERS ---
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-cohere
+langchain-ollama
+
+# --- VECTOR STORES & DATA ---
+chroma
+faiss-cpu
+pypdf
+numpy
+
+# --- TOOLS & UTILITIES ---
+python-dotenv
+wikipedia
+duckduckgo-search
+youtube-transcript-api
+
+# --- UI & VISUALIZATION ---
+streamlit
+grandalf               # Required for rendering LangGraph visual diagrams
