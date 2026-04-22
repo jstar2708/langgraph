@@ -1,6 +1,8 @@
 # --- CORE FRAMEWORKS ---
 langchain
 langchain-community
+langchain-core
+langchain-classic
 langchain-experimental
 langgraph
 langsmith              # Essential for debugging LangGraph traces
